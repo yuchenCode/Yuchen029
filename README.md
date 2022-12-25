@@ -1,4 +1,12 @@
-### Hi there 👋
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=Yuchen029&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
+
+### Hi World 👋
+
+- :hammer: Focusing on benchmark developing
+- :orange_book: Diving deeply in Probability and Statistics 
+- 🤔 Looking for advice with industrial opportunities
+- ⚡ Fun fact: Playing Rainbow6
+
 
 <!--
 **Yuchen029/Yuchen029** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
