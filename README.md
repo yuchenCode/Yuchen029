@@ -4,7 +4,7 @@
 
 - :hammer: Focusing on benchmark developing
 - :orange_book: Diving deeply in Probability and Statistics 
-- 🤔 Looking for advice with industrial opportunities
+- 🤔 Looking for advice with job opportunities
 - ⚡ Fun fact: Playing Rainbow6
 
 
