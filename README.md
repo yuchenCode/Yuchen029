@@ -3,7 +3,7 @@
 ### Hi World 👋
 
 - :hammer: Focusing on benchmark developing
-- :orange_book: Diving deeply in Probability and Statistics 
+- :orange_book: Diving deeply in Statistical Machine Learning 
 - 🤔 Looking for advice with job opportunities
 - ⚡ Fun fact: Playing Rainbow6
 
