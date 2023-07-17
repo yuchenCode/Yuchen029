@@ -2,9 +2,8 @@
 
 ### Hi World 👋
 
-- :hammer: Focusing on benchmark developing
-- :orange_book: Diving deeply in Statistical Machine Learning 
-- 🤔 Looking for advice with job opportunities
+- :hammer: Focusing on open source development
+- 🤔 Looking for job opportunities
 - ⚡ Fun fact: Playing Rainbow6
 
 
